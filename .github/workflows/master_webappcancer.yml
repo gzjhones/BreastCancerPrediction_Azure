@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'WebAppCancer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA4C466A5A42408DBE4217871DF8CB3D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_26F0B21CA604466D8956F23869022D3B }}
